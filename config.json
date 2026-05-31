@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggereelete",
+        "uuid": 27474396,
+        "checksum": "okrxa"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
